@@ -1,2 +1,12 @@
-# afficionado-coffee-product-optimization
-This project analyzes sales, revenue contribution, and product performance of Afficionado Coffee Roasters to support menu optimization decisions.
+# Coffee Product Optimization Project
+
+This project analyzes product performance for Afficionado Coffee Roasters.
+
+## Features
+- Product ranking (sales & revenue)
+- Category contribution
+- Pareto analysis
+- Streamlit dashboard
+
+## Run project
+streamlit run app.py
